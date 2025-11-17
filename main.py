@@ -5,7 +5,7 @@ import requests
 # ========== НАСТРОЙКИ ==========
 TELEGRAM_BOT_TOKEN = "8561518080:AAEvf-gv_l7F-_jenwkLcO6LhXczcKHij70"  # <-- вставь сюда
 TELEGRAM_CHAT_ID = "845312449"         # <-- вставь сюда
-PRICE_DIFF = 0.1                          # % разницы, чтобы отправлять сигнал
+PRICE_DIFF = 1                          # % разницы, чтобы отправлять сигнал
 
 SYMBOLS = [
     "LIGHTUSDT", "BANANAS31USDT", "RESOLVUSDT", "RESOLVUSDC", "WCTUSDT",
